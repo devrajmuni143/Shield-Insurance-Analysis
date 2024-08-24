@@ -10,12 +10,12 @@ Welcome to the SHIELD Insurance Analysis project! This Power BI report dives dee
 
 ## Key Takeaways
 
-- **Delhi NCR**: This region tops the charts with the most customers and highest revenue from November 2022 to April 2023.
+- **Delhi NCR**: This region tops the charts with the most customers (11007) and highest revenue (401.57M) from November 2022 to April 2023.
 - **Age Groups**: 
-  - The **31-40** age group is the revenue leader.
-  - The **18-24** age group brings in the least revenue.
-  - Interestingly, the **65+** age group, despite having the fewest customers, ranks 3rd in revenue, with the highest average revenue per customer.
-- **March 2023**: A standout month with the highest revenue and the most new customers.
+  - The **31-40** age group is the revenue leader With 342.90M.
+  - The **18-24** age group brings in the least revenue 33.15M.
+  - Interestingly, the **65+** age group, despite having the fewest customers 1998, ranks 3rd in revenue, with the highest average revenue per customer.
+- **March 2023**: A standout month with the highest revenue 264M and the most new customers 7.08K.
 - **Online Sales**: A noticeable spike in online revenue starting in February 2023, which led to a dip in Offline-Direct sales.
 - **Popular Policies**:
   - **POL4321HEL**: The best-seller, especially popular among the 18-40 age group.
@@ -29,31 +29,28 @@ Welcome to the SHIELD Insurance Analysis project! This Power BI report dives dee
   - **Online-Website**: The least profitable channel for all age groups.
 
 ## Screenshots
+### Home Page
+![image](https://github.com/user-attachments/assets/c69b420d-6e2a-49e9-956c-8ef00b1d743c)
 
-### Mockup Dashboard
-![Mockup Dashboard](link_to_mockup_dashboard_image)
-
-### General Analysis
-![General Analysis](link_to_general_analysis_image)
+### General View
+![image](https://github.com/user-attachments/assets/824d4d35-43f5-4c8c-8813-a385d121d8bd)
 
 ### Sales Mode Analysis
-![Sales Mode Analysis](link_to_sales_mode_analysis_image)
+![image](https://github.com/user-attachments/assets/730041c0-77bc-4de3-86d9-691accaaad5a)
 
 ### Age Group Analysis
-![Age Group Analysis](link_to_age_group_analysis_image)
+![image](https://github.com/user-attachments/assets/056b5432-82dc-45c5-b43b-0209e034a6ee)
 
 ## Data Set Provided
-A detailed overview of the data used in this analysis.
-
-### Data Set
-- [Link to the Data Set](link_to_data_set)
+![image](https://github.com/user-attachments/assets/21d5956f-db96-45df-ad7e-18fd7d537a33)
 
 ### Data Model
-- [Link to the Data Model](link_to_data_model)
+![image](https://github.com/user-attachments/assets/0ce22a12-07bc-4a19-bb66-e630d4880339)
+
 
 ## Live Dashboard
 Explore the live version of the dashboard:
-- [Live Dashboard Link](link_to_live_dashboard)
+- https://app.powerbi.com/view?r=eyJrIjoiZmVkZjM4YjgtNzA0Zi00ZDBjLTg1YTItNWZjNzc2NzdjMjJmIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
 
 ## Video Presentation
 Watch the presentation video that walks through the insights:
