@@ -33,9 +33,6 @@ Welcome to the SHIELD Insurance Analysis project! This Power BI report dives dee
 6. **Customers by Month:**
    - **March 2023:** Peak month with 7.1K customers.
 
-7. **Revenue Split by Sales Mode:**
-   - **Top Mode:** Offline-Agent generated the highest revenue across all age groups.
-
 ---
 
 ## 2. Sales Mode Analysis
