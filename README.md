@@ -56,7 +56,7 @@ Welcome to the SHIELD Insurance Analysis project! This Power BI report dives dee
 ## 3. Age Group Analysis
 
 1. **Top Policy by Age Group:**
-   - **POL4321HEL:** Most popular among the 31-40 age group.
+   - **POL4321HEL:** Most popular among the 18-40 age group.
    - **POL2005HEL:** Highest revenue contribution, especially among the 65+ age group.
 
 2. **Customer Trend by Age Group:**
@@ -82,7 +82,7 @@ Welcome to the SHIELD Insurance Analysis project! This Power BI report dives dee
 ![image](https://github.com/user-attachments/assets/730041c0-77bc-4de3-86d9-691accaaad5a)
 
 ### Age Group Analysis
-![image](https://github.com/user-attachments/assets/4b40f038-9826-4d10-97cb-39c214d42529)
+![image](https://github.com/user-attachments/assets/fe8c32a2-a53c-4ecc-a5bf-2f77e89ab918)
 
 ## Data Set Provided
 ![image](https://github.com/user-attachments/assets/21d5956f-db96-45df-ad7e-18fd7d537a33)
@@ -93,7 +93,7 @@ Welcome to the SHIELD Insurance Analysis project! This Power BI report dives dee
 
 ## Live Dashboard
 Explore the live version of the dashboard:
-- https://app.powerbi.com/view?r=eyJrIjoiN2U1MGFiZjAtNTg2ZC00MTRjLTk1ZjAtMjY1YTE5Y2Y1YjkwIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
+- https://app.powerbi.com/view?r=eyJrIjoiZTA5YmQ3NDgtNjQwZS00NDljLWJkNWEtMDhkNTMwYjc1NzdiIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
 
 ## Video Presentation
 Watch the presentation video that walks through the insights:
