@@ -28,8 +28,7 @@ Welcome to the SHIELD Insurance Analysis project! This Power BI report dives dee
    
 5. **Customer Segmentation:**
    - **Top City:** Delhi NCR with 11,107 customers.
-   - **Second City:** Hyderabad with 4,340 customers.
-
+  
 6. **Customers by Month:**
    - **March 2023:** Peak month with 7.1K customers.
 
