@@ -10,23 +10,70 @@ Welcome to the SHIELD Insurance Analysis project! This Power BI report dives dee
 
 ## Key Takeaways
 
-- **Delhi NCR**: This region tops the charts with the most customers (11007) and highest revenue (401.57M) from November 2022 to April 2023.
-- **Age Groups**: 
-  - The **31-40** age group is the revenue leader With 342.90M.
-  - The **18-24** age group brings in the least revenue 33.15M.
-  - Interestingly, the **65+** age group, despite having the fewest customers 1998, ranks 3rd in revenue, with the highest average revenue per customer.
-- **March 2023**: A standout month with the highest revenue 264M and the most new customers 7.08K.
-- **Online Sales**: A noticeable spike in online revenue starting in February 2023, which led to a dip in Offline-Direct sales.
-- **Popular Policies**:
-  - **POL4321HEL**: The best-seller, especially popular among the 18-40 age group.
-  - **POL2005HEL**: The biggest revenue generator, particularly among the 65+ age group.
-- **Customer Trends**:
-  - The **31-40** age group shows consistent growth.
-  - The **18-24** age group has more ups and downs in customer numbers.
-- **Revenue by Sales Mode**:
-  - **Offline-Agent**: This channel brings in the most revenue across all age groups.
-  - **Online-App**: For those aged 31 and above, this mode generates more revenue than Offline-Direct.
-  - **Online-Website**: The least profitable channel for all age groups.
+## 1. General Analysis
+
+1. **Total Revenue (INR):** ₹989.25M
+   - **March Revenue:** ₹835.50M
+   - **Variance:** +18.40%
+   
+2. **Total Customers:** 26.84K
+   - **March Customers:** 22.69K
+   - **Variance:** +18.28%
+
+3. **Top Performing City (Revenue):** 
+   - Delhi NCR with ₹401.57M total revenue.
+   
+4. **Top Performing Age Group (Revenue):**
+   - 31-40 years with ₹342.90M total revenue.
+   
+5. **Customer Segmentation:**
+   - **Top City:** Delhi NCR with 11,107 customers.
+   - **Second City:** Hyderabad with 4,340 customers.
+
+6. **Customers by Month:**
+   - **March 2023:** Peak month with 7.1K customers.
+
+7. **Revenue Split by Sales Mode:**
+   - **Top Mode:** Offline-Agent generated the highest revenue across all age groups.
+
+---
+
+## 2. Sales Mode Analysis
+
+1. **Total Customers by Sales Mode:**
+   - **Offline-Agent:** 14.87K (55.41%)
+   - **Online-App:** 4.26K (15.86%)
+   - **Offline-Direct:** 4.3K (16.03%)
+   - **Online-Website:** 3.41K (12.7%)
+
+2. **Sales Mode Trend Over Month:**
+   - **March 2023:** Highest revenue month.
+   - **Top Modes:** Driven by Offline-Agent and Online-App.
+
+3. **Revenue by Mode:**
+   - **Offline-Agent:** Dominated revenue generation.
+   - **Online-App:** Significant growth from February 2023.
+   - **Online-Website:** Generated the least revenue.
+
+---
+
+## 3. Age Group Analysis
+
+1. **Top Policy by Age Group:**
+   - **POL4321HEL:** Most popular among the 31-40 age group.
+   - **POL2005HEL:** Highest revenue contribution, especially among the 65+ age group.
+
+2. **Customer Trend by Age Group:**
+   - **31-40 years:** Largest customer base with a peak in March 2023.
+
+3. **Expected Settlement by Age Group:**
+   - **31-40 years:** Highest expected settlement at ₹527M.
+
+4. **Total Customers by Age Group:**
+   - **31-40 years:** Highest number of customers at 11.1K.
+   - **65+ years:** Fewest customers but 3rd highest revenue.
+
+---
 
 ## Screenshots
 ### Home Page
@@ -39,7 +86,7 @@ Welcome to the SHIELD Insurance Analysis project! This Power BI report dives dee
 ![image](https://github.com/user-attachments/assets/730041c0-77bc-4de3-86d9-691accaaad5a)
 
 ### Age Group Analysis
-![image](https://github.com/user-attachments/assets/056b5432-82dc-45c5-b43b-0209e034a6ee)
+![image](https://github.com/user-attachments/assets/4b40f038-9826-4d10-97cb-39c214d42529)
 
 ## Data Set Provided
 ![image](https://github.com/user-attachments/assets/21d5956f-db96-45df-ad7e-18fd7d537a33)
@@ -50,7 +97,7 @@ Welcome to the SHIELD Insurance Analysis project! This Power BI report dives dee
 
 ## Live Dashboard
 Explore the live version of the dashboard:
-- https://app.powerbi.com/view?r=eyJrIjoiZmVkZjM4YjgtNzA0Zi00ZDBjLTg1YTItNWZjNzc2NzdjMjJmIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
+- https://app.powerbi.com/view?r=eyJrIjoiN2U1MGFiZjAtNTg2ZC00MTRjLTk1ZjAtMjY1YTE5Y2Y1YjkwIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
 
 ## Video Presentation
 Watch the presentation video that walks through the insights:
